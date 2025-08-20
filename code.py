@@ -20,5 +20,5 @@ def insecure_function_2():
     user_code = input("Enter Python code: ")
     exec(user_code)
 
-add = (x - 20)
-print(add)
+def add():
+    return x + 100
