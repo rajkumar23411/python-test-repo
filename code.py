@@ -22,4 +22,6 @@ def cube(a):
 def square_root(a):
     return a**0.5
 
-def cube_root(a):
+# buggy code
+
+x + y
