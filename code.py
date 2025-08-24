@@ -21,7 +21,3 @@ def cube(a):
 
 def square_root(a):
     return a**0.5
-
-# buggy code
-
-x + y
